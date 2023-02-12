@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Youssef Alsoufi
-C# Developer / Test Automation / Machine Learning Engineer.
+### C# Developer / Test Automation / Machine Learning Engineer.
 
 ## Few Details:
 
@@ -19,7 +19,7 @@ C# Developer / Test Automation / Machine Learning Engineer.
 
 
 ### Skills:
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]" style="padding-right:10px;" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;" />][website]
