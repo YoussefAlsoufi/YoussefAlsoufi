@@ -17,15 +17,16 @@ C# Developer / Test Automation / Machine Learning Engineer.
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]()
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/youssef-alsoufi-009087139/)
 &nbsp;&nbsp;
-[![website](./img/kaggle-light.svg)](https://www.kaggle.com/youssefalsoufi)
+[![website](./img/globe-light.svg)](https://www.kaggle.com/youssefalsoufi)
 
-### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
+
+
+### Skills:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />][website]
 
 
@@ -39,22 +40,6 @@ C# Developer / Test Automation / Machine Learning Engineer.
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Pro Tip 🔥 Multiple Terminal Management in VS Code](https://www.youtube.com/watch?v=i90sURfAXYw)
-- [Best CSS Tool for VS Code!! 🪞 Mirror Editing](https://www.youtube.com/watch?v=ELVkK-N3kBs)
-- [The FASTEST Way to Learn to Code &amp; Become a Successful Web Developer](https://www.youtube.com/watch?v=LIxBJ_jw9tE)
-- [🛑 STOP Renaming Things in VS Code This Way!](https://www.youtube.com/watch?v=83Bk97PqaW4)
-- [Pimp my Cursor - VS Code Style](https://www.youtube.com/watch?v=5oUUDvwiI-o)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 
 ### 📕 Latest Blog Posts
 
@@ -76,11 +61,9 @@ C# Developer / Test Automation / Machine Learning Engineer.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Youssef's GitHub Stats" src="" />
-
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://github.com/YoussefAlsoufi?tab=repositories
 <!-- 
 
 [website]: https://codeSTACKr.com
