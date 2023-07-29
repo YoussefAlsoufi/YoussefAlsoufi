@@ -1,13 +1,13 @@
 # Hi there 👋 , I'm Youssef Alsoufi
-### C# Developer / Test Automation / Machine Learning Engineer.
+### SW Engineer / C# Developer / Test Automation / Machine Learning Engineer.
 
 ## Few Details:
 
 - 🔭 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to improve my skills in SW Developing/Testing, ML operation, Clouds (AWS, Azure).
+- 👯 I’m looking to improve my skills in SW Developing/Testing, ML operation, and Clouds (AWS, Azure).
 - 🥅 2023 Goals: AWS Certificates, SW Testing certificate.
-- ⚡ Fun fact: I love to watch and play Soccer, Tennis and Gym.
+- ⚡ Fun fact: I love to watch and play Soccer, Tennis, and Gym.
 
 ### Connect with me:
 
