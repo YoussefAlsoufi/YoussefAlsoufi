@@ -9,7 +9,7 @@
 - 🥅 2023 Goals: AWS Certificates, SW Testing certificate.
 - ⚡ Fun fact: I love to watch and play Soccer, Tennis, and Gym.
 
-### Connect with me:
+### Contact me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/youssef-alsoufi-009087139/)
 &nbsp;&nbsp;
