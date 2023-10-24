@@ -3,11 +3,11 @@
 
 ## Few Details:
 
-- 🔭 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to improve my skills in SW Developing/Testing, ML operation, and Clouds (AWS, Azure).
-- 🥅 2023 Goals: AWS Certificates, SW Testing certificate.
-- ⚡ Fun fact: I love to watch and play Soccer, Tennis, and Gym.
+- 🔭 Enthusiastic learner with a strong focus on continuous development in the domains of Software Development, Testing, Machine Learning Operations, and Cloud Technologies (AWS, Azure).
+- 🌱 Striving to enhance proficiency in Software Development and Testing while mastering skills in Machine Learning Operations and Cloud Computing. 🤣
+- 👯 Goals for 2023: Acquiring AWS Certifications and a Software Testing certificate to solidify expertise in these areas.
+- 🥅 Fun Fact: Passionate about soccer, tennis, and fitness training. Always up for a game or workout session.
+- ⚡ 
 
 ### Contact me:
 
