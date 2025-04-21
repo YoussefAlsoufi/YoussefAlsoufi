@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Youssef Alsoufi
-### SW Engineer / C# Developer / Test Automation / Machine Learning Engineer.
+### Senior AI Data Engineer/ SW Engineer / Test Automation / Machine Learning Engineer.
 
 ## Few Details:
 
